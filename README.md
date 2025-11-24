@@ -1,6 +1,5 @@
 
-
-![Uploading memory_sv.png…]()
+<img width="1536" height="1024" alt="memory_sv" src="https://github.com/user-attachments/assets/d5f709b4-90a8-4979-adbe-ca0ed03e2e3f" />
 
 # Memory Verification Environment – SystemVerilog
 
